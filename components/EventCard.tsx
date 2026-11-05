@@ -1,4 +1,4 @@
-// TODO Task 2: replace `any` with a typed prop that accepts one `event` of the Event type.
+// TODO Task 2: replace `any` with a typed prop that accepts one `event` of the CampusEvent type.
 export default function EventCard({ event }: any) {
   return (
     <article>
